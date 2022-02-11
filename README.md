@@ -6,5 +6,3 @@ Facial Recognition of various emotional states via image classification: https:/
     2. https://www.kaggle.com/prasunroy/natural-images (only the 'person' folder)
    
 And many more, but thought to at least start with these datasets for now.
-    
-    
